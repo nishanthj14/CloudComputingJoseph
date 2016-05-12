@@ -3,3 +3,11 @@
    padding: 10px;
    marging: 10px;
  }
+
+html { 
+  background: url('C:\Users\hp\Desktop\potatoes.gif') no-repeat center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+ }
