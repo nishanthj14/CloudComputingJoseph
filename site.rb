@@ -8,3 +8,5 @@ require 'sinatra'
 get '/italian' do
    "Ciao!"
  end
+
+<h1> Something here, remember to close it </h1>
