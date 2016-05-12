@@ -5,6 +5,3 @@ require 'sinatra'
    "I'm alive!"
  end
 
-get '/italian' do
-   "Ciao!"
- end
