@@ -15,3 +15,7 @@ get '/' do
 
 ENV['PORT'] ||= '4000'
  set :port, ENV['PORT']
+
+get '/read_more' do
+   erb :read_more
+ end
